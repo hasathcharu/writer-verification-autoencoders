@@ -1,0 +1,20 @@
+Average Accuracy: 0.8706
+Minimum Accuracy: 0.3333
+Maximum Accuracy: 1.0000
+Average Precision: 0.8675
+Average Recall: 0.9210
+Average F1: 0.8820
+Average FAR: 0.1798
+Average FRR: 0.0790
+Average EER: 0.0990
+Average AUC_ROC: 0.9440
+Std Deviation Accuracy: 0.1276
+Std Deviation Precision: 0.1476
+Std Deviation Recall: 0.1214
+Std Deviation F1: 0.1064
+Std Deviation FAR: 0.2359
+Std Deviation FRR: 0.1214
+Std Deviation EER: 0.1364
+Std Deviation AUC_ROC: 0.1129
+
+Feature Set: data/cvl/features_prep_v2

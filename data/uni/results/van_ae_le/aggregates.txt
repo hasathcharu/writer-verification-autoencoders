@@ -1,0 +1,22 @@
+Average Accuracy: 0.9069
+Minimum Accuracy: 0.7315
+Maximum Accuracy: 1.0000
+Average Precision: 0.9605
+Average Recall: 0.9150
+Average F1: 0.9347
+Average FAR: 0.1173
+Average FRR: 0.0850
+Average EER: 0.0874
+Average AUC_ROC: 0.9646
+Std Deviation Accuracy: 0.0648
+Std Deviation Precision: 0.0348
+Std Deviation Recall: 0.0836
+Std Deviation F1: 0.0489
+Std Deviation FAR: 0.1090
+Std Deviation FRR: 0.0836
+Std Deviation EER: 0.0658
+Std Deviation AUC_ROC: 0.0381
+
+Feature Set: data/uni/features_prep_mean_int_area_v2
+van_ae_le
+20250720_132306

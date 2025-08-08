@@ -1,0 +1,21 @@
+Average Accuracy: 0.8154
+Minimum Accuracy: 0.4000
+Maximum Accuracy: 0.9773
+Average Precision: 0.8385
+Average Recall: 0.8231
+Average F1: 0.8184
+Average FAR: 0.1924
+Average FRR: 0.1769
+Average EER: 0.1580
+Average AUC_ROC: 0.8964
+Std Deviation Accuracy: 0.1153
+Std Deviation Precision: 0.1311
+Std Deviation Recall: 0.1285
+Std Deviation F1: 0.1026
+Std Deviation FAR: 0.2152
+Std Deviation FRR: 0.1285
+Std Deviation EER: 0.1583
+Std Deviation AUC_ROC: 0.1215
+
+den_ae_lw
+20250507_212544

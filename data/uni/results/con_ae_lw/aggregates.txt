@@ -1,0 +1,20 @@
+Average Accuracy: 0.8752
+Minimum Accuracy: 0.4524
+Maximum Accuracy: 1.0000
+Average Precision: 0.8918
+Average Recall: 0.8659
+Average F1: 0.8734
+Average FAR: 0.1155
+Average FRR: 0.1341
+Average EER: 0.1041
+Average AUC_ROC: 0.9377
+Std Deviation Accuracy: 0.0838
+Std Deviation Precision: 0.0876
+Std Deviation Recall: 0.1096
+Std Deviation F1: 0.0793
+Std Deviation FAR: 0.1269
+Std Deviation FRR: 0.1096
+Std Deviation EER: 0.0864
+Std Deviation AUC_ROC: 0.0915
+
+20250509_101848
