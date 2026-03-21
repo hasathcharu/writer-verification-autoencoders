@@ -11,6 +11,10 @@ This is my main contribution to the final year research project titled Exam Cand
 - SHAP-based explanations to understand the model's predictions.
 - LLM-assisted SHAP value interpretations for enhanced understandability of model decisions.
 
+## Overall Architecture
+
+![Overall Architecture](assets/overall_architecture.svg)
+
 ## Feature Extraction Pipeline
 
 ![Feature Extraction Pipeline](assets/feature_extraction.svg)
