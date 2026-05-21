@@ -26,3 +26,21 @@ The feature extraction pipeline is designed to extract both line level and chara
 ![Feature Fusion and Autoencoder Architecture](assets/training_pipeline.svg)
 
 The feature fusion architecture combines the line level and character level features extracted from the handwritten samples. The fused features are used to train a lightweight autoencoder model that learns to reconstruct the writer's handwriting style. The threshold for the reconstruction error is determined using a validation set, using Equal Error Rate (EER) as the metric. The trained autoencoder is then used to verify the identity of the writer by comparing the reconstruction error of the test sample with the threshold. These model predictions are then explained using SHAP values, which provide insights into the most important features contributing to the model's decisions. These SHAP values are then interpreted using an LLM to provide a more understandable explanation of the model's predictions.
+
+This work has been presented at the 9th IEEE International Research Conference on Smart Computing and Systems Engineering (SCSE) organized by the University of Kelaniya, Sri Lanka, and [has been published by IEEE](https://doi.org/10.1109/SCSE70081.2026.11499956).
+
+Cite this paper.
+
+```
+@inproceedings{hasathcharu2026explainable,
+  title={Explainable Writer Verification with Autoencoders, Feature Fusion, and LLM-Based Explanations},
+  author={Hasathcharu, Haritha and Sandamini, Rashmi and Navaratnam, Sagini and Ganegoda, Gamage Upeksha and Upeksha, Shalini},
+  booktitle={2026 IEEE International Research Conference on Smart Computing and Systems Engineering (SCSE)},
+  volume={9},
+  pages={1--6},
+  year={2026},
+  organization={IEEE}
+}
+```
+
+
